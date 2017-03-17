@@ -1,6 +1,7 @@
 <snippet>
   <content>
-# LoRa Communication Ganuino Code
+
+#  LoRa Communication Ganuino Code
 
 This repository includes the code for the Genuino to test the LoRa Communication between the node and the gateway. 
 
